@@ -1,0 +1,11 @@
+
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <!-- Image taking up full width -->
+        <mj-image width="500px" src="https://github.com/Abilashs003/whatsapp-qr/blob/main/deepak.png?raw=true" alt="Full Screen Image" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

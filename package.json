@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:Abilashs003/whatsapp-qr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.7",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
